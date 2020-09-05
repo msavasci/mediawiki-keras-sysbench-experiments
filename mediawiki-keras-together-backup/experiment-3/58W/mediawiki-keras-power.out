@@ -1,0 +1,1038 @@
+Experiment start time info: Sat Sep 5 18:32:11 UTC 2020
+POWER MEASUREMENT:1
+Start: Sat Sep 5 18:32:11 UTC 2020
+Runtime: 5.00073 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 195.852 Joules
+Power consumed: 39.1647 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 21.9179 Joules
+Power consumed: 4.38294 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 194.839 Joules
+Power consumed: 38.9621 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:2
+Start: Sat Sep 5 18:32:17 UTC 2020
+Runtime: 5.00063 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 195.833 Joules
+Power consumed: 39.1616 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.2355 Joules
+Power consumed: 4.44654 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 196.004 Joules
+Power consumed: 39.1958 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:3
+Start: Sat Sep 5 18:32:23 UTC 2020
+Runtime: 5.00071 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 199.218 Joules
+Power consumed: 39.838 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 21.9524 Joules
+Power consumed: 4.38986 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 194.019 Joules
+Power consumed: 38.7982 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:4
+Start: Sat Sep 5 18:32:29 UTC 2020
+Runtime: 5.00077 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 196.721 Joules
+Power consumed: 39.338 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 21.7048 Joules
+Power consumed: 4.3403 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 194.698 Joules
+Power consumed: 38.9336 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:5
+Start: Sat Sep 5 18:32:36 UTC 2020
+Runtime: 5.00069 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 188.919 Joules
+Power consumed: 37.7787 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 21.5092 Joules
+Power consumed: 4.30124 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 187.031 Joules
+Power consumed: 37.4011 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:6
+Start: Sat Sep 5 18:32:42 UTC 2020
+Runtime: 5.00067 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 196.189 Joules
+Power consumed: 39.2325 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 21.8797 Joules
+Power consumed: 4.37536 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 191.806 Joules
+Power consumed: 38.3561 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:7
+Start: Sat Sep 5 18:32:48 UTC 2020
+Runtime: 5.00122 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 191.923 Joules
+Power consumed: 38.3752 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 21.3573 Joules
+Power consumed: 4.27041 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 187.516 Joules
+Power consumed: 37.494 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:8
+Start: Sat Sep 5 18:32:54 UTC 2020
+Runtime: 5.00063 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 192.898 Joules
+Power consumed: 38.5747 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 21.6995 Joules
+Power consumed: 4.33936 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 190.891 Joules
+Power consumed: 38.1733 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:9
+Start: Sat Sep 5 18:33:00 UTC 2020
+Runtime: 5.00071 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 197.744 Joules
+Power consumed: 39.5432 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.3998 Joules
+Power consumed: 4.47932 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 195.518 Joules
+Power consumed: 39.0981 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:10
+Start: Sat Sep 5 18:33:06 UTC 2020
+Runtime: 5.00065 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 195.203 Joules
+Power consumed: 39.0356 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 21.6822 Joules
+Power consumed: 4.33587 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 195.861 Joules
+Power consumed: 39.167 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:11
+Start: Sat Sep 5 18:33:12 UTC 2020
+Runtime: 5.00077 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 197.55 Joules
+Power consumed: 39.5038 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.4596 Joules
+Power consumed: 4.49122 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 196.307 Joules
+Power consumed: 39.2553 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:12
+Start: Sat Sep 5 18:33:18 UTC 2020
+Runtime: 5.00119 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 196.867 Joules
+Power consumed: 39.364 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 21.8041 Joules
+Power consumed: 4.35978 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 195.622 Joules
+Power consumed: 39.115 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:13
+Start: Sat Sep 5 18:33:24 UTC 2020
+Runtime: 5.00066 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 197.833 Joules
+Power consumed: 39.5613 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 21.9332 Joules
+Power consumed: 4.38606 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 193.039 Joules
+Power consumed: 38.6026 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:14
+Start: Sat Sep 5 18:33:30 UTC 2020
+Runtime: 5.00064 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 196.085 Joules
+Power consumed: 39.212 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.0373 Joules
+Power consumed: 4.40689 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 195.721 Joules
+Power consumed: 39.1392 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:15
+Start: Sat Sep 5 18:33:36 UTC 2020
+Runtime: 5.00072 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 198.915 Joules
+Power consumed: 39.7773 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.5405 Joules
+Power consumed: 4.50746 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 195.576 Joules
+Power consumed: 39.1097 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:16
+Start: Sat Sep 5 18:33:43 UTC 2020
+Runtime: 5.0007 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 199.728 Joules
+Power consumed: 39.9399 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.4815 Joules
+Power consumed: 4.49568 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 194.985 Joules
+Power consumed: 38.9915 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:17
+Start: Sat Sep 5 18:33:49 UTC 2020
+Runtime: 5.00067 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 198.429 Joules
+Power consumed: 39.6805 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.6461 Joules
+Power consumed: 4.52862 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 191.648 Joules
+Power consumed: 38.3245 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:18
+Start: Sat Sep 5 18:33:55 UTC 2020
+Runtime: 5.00072 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 198.172 Joules
+Power consumed: 39.6287 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.2234 Joules
+Power consumed: 4.44405 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 195.668 Joules
+Power consumed: 39.1281 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:19
+Start: Sat Sep 5 18:34:01 UTC 2020
+Runtime: 5.00072 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 199.847 Joules
+Power consumed: 39.9635 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.2743 Joules
+Power consumed: 4.45422 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 193.271 Joules
+Power consumed: 38.6485 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:20
+Start: Sat Sep 5 18:34:07 UTC 2020
+Runtime: 5.00065 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 198.556 Joules
+Power consumed: 39.706 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.2636 Joules
+Power consumed: 4.45215 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 196.714 Joules
+Power consumed: 39.3378 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:21
+Start: Sat Sep 5 18:34:13 UTC 2020
+Runtime: 5.00074 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 198.92 Joules
+Power consumed: 39.7782 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.6961 Joules
+Power consumed: 4.53855 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 196.776 Joules
+Power consumed: 39.3493 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:22
+Start: Sat Sep 5 18:34:19 UTC 2020
+Runtime: 5.00065 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 197.816 Joules
+Power consumed: 39.558 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.5544 Joules
+Power consumed: 4.51031 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 194.969 Joules
+Power consumed: 38.9888 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:23
+Start: Sat Sep 5 18:34:25 UTC 2020
+Runtime: 5.00069 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 199.541 Joules
+Power consumed: 39.9027 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.2351 Joules
+Power consumed: 4.44641 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 196.68 Joules
+Power consumed: 39.3305 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:24
+Start: Sat Sep 5 18:34:31 UTC 2020
+Runtime: 5.00066 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 198.667 Joules
+Power consumed: 39.7282 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.1076 Joules
+Power consumed: 4.42094 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 191.506 Joules
+Power consumed: 38.2961 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:25
+Start: Sat Sep 5 18:34:37 UTC 2020
+Runtime: 5.00066 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 200.888 Joules
+Power consumed: 40.1723 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.4113 Joules
+Power consumed: 4.48166 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 193.36 Joules
+Power consumed: 38.667 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:26
+Start: Sat Sep 5 18:34:44 UTC 2020
+Runtime: 5.00064 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 199.562 Joules
+Power consumed: 39.9073 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.1904 Joules
+Power consumed: 4.43752 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 196.037 Joules
+Power consumed: 39.2024 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:27
+Start: Sat Sep 5 18:34:50 UTC 2020
+Runtime: 5.00069 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 198.734 Joules
+Power consumed: 39.7412 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.2612 Joules
+Power consumed: 4.45163 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 191.972 Joules
+Power consumed: 38.389 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:28
+Start: Sat Sep 5 18:34:56 UTC 2020
+Runtime: 5.00065 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 197.045 Joules
+Power consumed: 39.4039 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.2141 Joules
+Power consumed: 4.44225 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 195.001 Joules
+Power consumed: 38.9952 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:29
+Start: Sat Sep 5 18:35:02 UTC 2020
+Runtime: 5.00069 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 200.621 Joules
+Power consumed: 40.1186 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.5392 Joules
+Power consumed: 4.50722 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 195.954 Joules
+Power consumed: 39.1853 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:30
+Start: Sat Sep 5 18:35:08 UTC 2020
+Runtime: 5.00068 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 200.035 Joules
+Power consumed: 40.0015 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.9358 Joules
+Power consumed: 4.58653 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 196.054 Joules
+Power consumed: 39.2055 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:31
+Start: Sat Sep 5 18:35:14 UTC 2020
+Runtime: 5.00069 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 201.487 Joules
+Power consumed: 40.2919 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.3531 Joules
+Power consumed: 4.47 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 193.721 Joules
+Power consumed: 38.7389 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:32
+Start: Sat Sep 5 18:35:20 UTC 2020
+Runtime: 5.00073 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 198.564 Joules
+Power consumed: 39.707 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.4467 Joules
+Power consumed: 4.48869 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 192.157 Joules
+Power consumed: 38.4257 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:33
+Start: Sat Sep 5 18:35:26 UTC 2020
+Runtime: 5.00071 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 199.536 Joules
+Power consumed: 39.9015 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.2284 Joules
+Power consumed: 4.44505 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 196.743 Joules
+Power consumed: 39.343 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:34
+Start: Sat Sep 5 18:35:32 UTC 2020
+Runtime: 5.00069 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 198.254 Joules
+Power consumed: 39.6453 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.1105 Joules
+Power consumed: 4.42148 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 196.78 Joules
+Power consumed: 39.3506 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:35
+Start: Sat Sep 5 18:35:38 UTC 2020
+Runtime: 5.0007 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 199.687 Joules
+Power consumed: 39.9318 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 21.6595 Joules
+Power consumed: 4.3313 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 192.272 Joules
+Power consumed: 38.449 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:36
+Start: Sat Sep 5 18:35:44 UTC 2020
+Runtime: 5.0006 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 198.656 Joules
+Power consumed: 39.7264 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.2097 Joules
+Power consumed: 4.4414 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 195.723 Joules
+Power consumed: 39.1399 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:37
+Start: Sat Sep 5 18:35:51 UTC 2020
+Runtime: 5.00068 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 199.377 Joules
+Power consumed: 39.87 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.5651 Joules
+Power consumed: 4.5124 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 195.303 Joules
+Power consumed: 39.0553 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:38
+Start: Sat Sep 5 18:35:57 UTC 2020
+Runtime: 5.00069 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 200.291 Joules
+Power consumed: 40.0527 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.2124 Joules
+Power consumed: 4.44186 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 196.503 Joules
+Power consumed: 39.2951 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:39
+Start: Sat Sep 5 18:36:03 UTC 2020
+Runtime: 5.00071 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 198.537 Joules
+Power consumed: 39.7018 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.3468 Joules
+Power consumed: 4.46873 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 194.141 Joules
+Power consumed: 38.8227 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:40
+Start: Sat Sep 5 18:36:09 UTC 2020
+Runtime: 5.00064 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 202.119 Joules
+Power consumed: 40.4187 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.4268 Joules
+Power consumed: 4.4848 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 197.011 Joules
+Power consumed: 39.3971 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:41
+Start: Sat Sep 5 18:36:15 UTC 2020
+Runtime: 5.00078 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 199.143 Joules
+Power consumed: 39.8223 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.5 Joules
+Power consumed: 4.4993 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 196.977 Joules
+Power consumed: 39.3892 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:42
+Start: Sat Sep 5 18:36:21 UTC 2020
+Runtime: 5.00065 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 200.584 Joules
+Power consumed: 40.1116 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.4635 Joules
+Power consumed: 4.49211 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 191.893 Joules
+Power consumed: 38.3736 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:43
+Start: Sat Sep 5 18:36:27 UTC 2020
+Runtime: 5.00156 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 200.009 Joules
+Power consumed: 39.9893 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 21.9642 Joules
+Power consumed: 4.39146 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 195.907 Joules
+Power consumed: 39.1692 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:44
+Start: Sat Sep 5 18:36:33 UTC 2020
+Runtime: 5.00071 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 200.197 Joules
+Power consumed: 40.0338 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.3122 Joules
+Power consumed: 4.4618 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 191.525 Joules
+Power consumed: 38.2995 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+POWER MEASUREMENT:45
+Start: Sat Sep 5 18:36:39 UTC 2020
+Runtime: 5.0007 s
+Measure for socket 0 on CPU 0
+Domain PKG:
+Energy consumed: 201.087 Joules
+Power consumed: 40.2118 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Domain DRAM:
+Energy consumed: 22.5333 Joules
+Power consumed: 4.50604 Watt
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+
+Measure for socket 1 on CPU 1
+Domain PKG:
+Energy consumed: 195.955 Joules
+Power consumed: 39.1856 Watt
+Domain PP0:
+Energy consumed: 0 Joules
+Power consumed: 0 Watt
+Finish: Sat Sep 5 18:36:45 UTC 2020
+Experiment finish time info: Sat Sep 5 18:36:45 UTC 2020
